@@ -1,3 +1,4 @@
-# Text-steganalysis
+# Text-steganalysis Pytorch-Version
 
-## Coming Soon!
+### The detail implementation can be find [Here!](https://github.com/CAU-Tstega/Text-steganalysis)
+
