@@ -16,9 +16,9 @@ number={},
 pages={1-14},   
 doi={10.1109/TASLP.2023.3319975}}
 
-### @inproceedings{Peng2021SPL,
-### title={real-time text steganalysis based on multi-stage transfer learning},
-### author={Wanli Peng, Jinyu Zhang, Yiming Xue, Zhenghong Yang},
-### booktitle={Signal Processing Letter (SPL)},
-### year={2021}
-### }
+@inproceedings{Peng2021SPL,   
+title={real-time text steganalysis based on multi-stage transfer learning},   
+author={Wanli Peng, Jinyu Zhang, Yiming Xue, Zhenghong Yang},   
+booktitle={Signal Processing Letter (SPL)},   
+year={2021}   
+}
