@@ -4,6 +4,8 @@
 
 #### This paper (HiDuNet) is published on IEEE/ACM Transactions on Audio, Speech, and Language Processing [(paper link)](https://ieeexplore.ieee.org/abstract/document/10268497)
 
+#### If you have any questions, please contact us immediately by the e-mail(pengwanli@fudan.edu.cn)
+
 # Citation
 ## If these codes help you, please cite the following papers:
 @ARTICLE{Peng2023TASLP,   
