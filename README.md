@@ -7,7 +7,7 @@
 # Citation
 ## If these codes help you, please cite the following papers:
 @ARTICLE{Peng2023TASLP, &nbsp;
-author={Peng, Wanli and Li, Sheng and Qian, Zhenxing and Zhang, Xinpeng},
+author={Peng, Wanli and Li, Sheng and Qian, Zhenxing and Zhang, Xinpeng}, &nbsp;
 journal={IEEE/ACM Transactions on Audio, Speech, and Language Processing}, 
 title={Text Steganalysis Based on Hierarchical Supervised Learning and Dual Attention Mechanism}, 
 year={2023},
