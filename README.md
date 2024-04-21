@@ -20,11 +20,11 @@ pages={1-14},
 doi={10.1109/TASLP.2023.3319975}}
 
 @article{xue2023TIFS,
-  title={Adaptive domain-invariant feature extraction for cross-domain linguistic steganalysis},
-  author={Xue, Yiming and Wu, Jiaxuan and Ji, Ronghua and Zhong, Ping and Wen, Juan and Peng, Wanli},
-  journal={IEEE Transactions on Information Forensics and Security},
-  year={2023},
-  publisher={IEEE}
+title={Adaptive domain-invariant feature extraction for cross-domain linguistic steganalysis},
+author={Xue, Yiming and Wu, Jiaxuan and Ji, Ronghua and Zhong, Ping and Wen, Juan and Peng, Wanli},
+journal={IEEE Transactions on Information Forensics and Security},
+year={2023},
+publisher={IEEE}
 }
 
 @inproceedings{Peng2021SPL,   
