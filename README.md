@@ -1,12 +1,12 @@
 # Text-steganalysis Pytorch-Version
 
-#### The detailed implementation of previous methods can be found [Here!](https://github.com/CAU-Tstega/Text-steganalysis) ,including LS_CNN, TS-BiRNN, R-BiLSTM-C, BiLSTM-Dense, MS-TL.
+### The detailed implementation of previous methods can be found [Here!](https://github.com/CAU-Tstega/Text-steganalysis) ,including LS_CNN, TS-BiRNN, R-BiLSTM-C, BiLSTM-Dense, MS-TL.
 
-#### HiDuNet is published on IEEE/ACM Transactions on Audio, Speech, and Language Processing [(paper link)](https://ieeexplore.ieee.org/abstract/document/10268497)
-#### SANet is published on IEEE Transactions on Information Forensics and Security [(paper link)](https://ieeexplore.ieee.org/abstract/document/10299660/)
+### HiDuNet is published on IEEE/ACM Transactions on Audio, Speech, and Language Processing [(paper link)](https://ieeexplore.ieee.org/abstract/document/10268497)
+### SANet is published on IEEE Transactions on Information Forensics and Security [(paper link)](https://ieeexplore.ieee.org/abstract/document/10299660/)
 ### SDCNet is published on  Chinese Journal of Electronics [(paper link)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10038789)
 
-#### If you have any questions, please contact us immediately by the e-mail(pengwanli@fudan.edu.cn)
+### If you have any questions, please contact us immediately by the e-mail(pengwanli@fudan.edu.cn)
 
 # Citation
 ## If these codes help you, please cite the following papers:
